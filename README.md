@@ -21,5 +21,5 @@ Model final: Linear SVM cu TF-IDF vectorizare.
 1. Instalează librăriile:
 ```bash
 pip install -r requirements.txt
-i
+
 
