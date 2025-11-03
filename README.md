@@ -3,7 +3,7 @@ Analiza datelor produselor
 # Product Category Predictor
 
 Autor: Cioaric Rodica  
-Curs: [Numele cursului]
+
 
 ## Descriere
 Proiectul clasifică produsele în categorii pe baza titlului lor folosind Machine Learning.  
